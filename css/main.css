@@ -1,0 +1,13 @@
+body {
+  font-family: Palatino;
+}
+
+#reading-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+#reading-list div {
+  width = 200px;
+}
